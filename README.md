@@ -8,6 +8,10 @@ This repository contains a collection of projects developed using Programmable L
    - Description: Design and implementation of a traffic light system for an intersection.
    - Features: Pedestrian crossing controls, sequence logic, and timers.
 
+*Ladder Logic Diagram*
+![Ladder Logic Diagram](![image](https://github.com/user-attachments/assets/e039e446-7733-40a1-8fed-3bd1a3e5d6a9)
+)
+
 2. **Conveyor Belt Sorting System**
    - Description: A system that sorts items based on size or weight.
    - Features: Sensors for item detection, actuators for sorting.

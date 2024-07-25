@@ -9,7 +9,8 @@ This repository contains a collection of projects developed using Programmable L
    - Features: Pedestrian crossing controls, sequence logic, and timers.
 
 *Ladder Logic Diagram*
-![Ladder Logic Diagram](![image](https://github.com/user-attachments/assets/e039e446-7733-40a1-8fed-3bd1a3e5d6a9)
+![Ladder Logic Diagram]
+(![image](https://github.com/user-attachments/assets/e039e446-7733-40a1-8fed-3bd1a3e5d6a9)
 )
 
 2. **Conveyor Belt Sorting System**
